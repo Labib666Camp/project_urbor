@@ -1,6 +1,4 @@
 ee
 folium
-streamlit
-streamlit-extras
-streamlit-folium
+
 
