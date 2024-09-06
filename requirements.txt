@@ -5,3 +5,4 @@ streamlit-extras==0.4.7
 streamlit_folium==0.22.0
 setuptools==65.5.0
 earthengine-api==0.1.419
+geemap==0.34.1
