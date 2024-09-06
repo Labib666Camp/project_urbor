@@ -1,4 +1,4 @@
-earthengine-api==1.0.0rc0
+ee==0.2
 folium
 
 
