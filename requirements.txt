@@ -1,5 +1,5 @@
 earthengine-api==0.1.418
 folium
 geemap
-
+setuptools
 
