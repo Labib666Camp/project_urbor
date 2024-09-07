@@ -19,6 +19,3 @@ def authenticate():
     ee.Initialize(credentials)
     print('-----DONE------')
     print(f'time taken ........ {t.time() - st}')
-
-if __name__ == "__main__":
-    authenticate()
