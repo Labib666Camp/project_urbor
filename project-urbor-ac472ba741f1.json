@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "project-urbor",
-  "private_key_id": "ac472ba741f185bc966bdd43ce19904441d86e2f",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvjhUREj4OCZGP\nK4XjyugIdbYLmR3Mn9wqaIGnB2X8+qh441KANiBWQIgtSbptXCs6N+Av/LX9pWKh\n1CdzukCrf6pqW0ckHTrpHRYlXP8Xu6ZQhwXUR1vlNgk8q9+n8NhoaZrB9mSb0zjT\n9bwu9g5S7twYBA/s/DDohKs6uyGuvmfQmSxMUCvXKd3UuHofqAN1MANGNInVfrs5\nQo2/74t20972Ru16ssr5OAw8MpGF981H1jANYoCryLBg/cJ2KSDqbKHdk2+FcVcf\ne2KyLI0NO/IEtqbSOVBkSQ/1/8gOyIpxwPa++o+fpY2DqqgQhR9+uITeDolVKfgP\nMJOwjCGRAgMBAAECggEAEJA6k0ZsrcJgBhQN09+HDj/yPHHmioc4Aer49fC6wf2c\nUPDnDcsNjgBqA2vbYl9kggpXj++AnufbFc2rKJNqxUOMU/CSFmmI717xLKFI6CJU\n9MVohWNzhigXra5sXFoFm68AYksu/uIU5dq04JwSiedDbiNOpVtopJIv3aCznYWX\n/zMIR/K9klSvGw7HN+0SJ9F4MsH6fUt4XVoW8tV+qXlaZzc3W6wTTJ3LrMj5U4Sk\nCkKk1jGaMgfh6b2crLSKYNXK1K/J+6o55KmTQyjU9Hy3ngzJvbJC3iEEx8jPu41f\namFEBHKCVUMQUfUv7dxuRBwWhzRPHRPW19LVWFhviQKBgQDl7fFQEBjDOghhd9OP\nyK8F/baDJOLETV/FuIKutNtKps7153S8tyTd0jMT355px2gbAtbKYLYDoq99qxRf\n5ULuMBlYVRn434vwwS4494jsrMp23+kglvKhyfyoj8ZNKnZMZiRilGHjdrm8iS9Y\nIJwiN2RJ48y4OPxzWhLqq98cDwKBgQDDddZVnJzAiLkYIF6uDrN1qQGn6+dtn/E8\n9Ke8SGr/IxkJYf+1YL0HX1XibB5umoQDBUQbJP8OAve/ds7CqOrDPs2vKwTna8mD\nc2IPZRJpltS67PoGo6nNQFnrGyOOo6I+1BPhvL/4wydCPRNtLbGr6nbe9Q+f+lrJ\nlgzpxtvIXwKBgQDU882d02q71dHRRAPDlaDUsakKSW1lViwvmbYfTQ4VU+02vwnV\nhuI0N+xqqZ+0ZKU87yI0CeJJ97EFeR/DuTiGFjJDJ36Ii7K2ZpUC2fANE/PoqXTn\nZCaQRd0l2RNWgM9T7v4f90G6REm+Hmik/H7fCeJutPb0YIMf6vq+MjTPbQKBgQCy\nByZNm/P6OY29N96E0scKKAFmHSwRYVismHoeuCccc69eKHBrl80UZfUn4ipluz76\nMVWzE6Nr87AMJ/5ytr/9TbqyDZDN6BMHM5ThSMHYgpUIHMguO+txE2fTCEj+pnQk\nna3uMaj4v2eGoXKMQs5NM6VJthOhNrpyWcUxOPr+KQKBgHP4glBTTdqY68fgrNnn\n5n2IdvnxxHKY8IVihs8/llObFSya1r1OsJtLu9/ipqcV42s56B+TOt3LnS6LhjzP\nf0cZBxOiNd9vzD5xXXoKTzmnyp7iQlTymLBDBk+b750siDbMozrn8FQSRCHLnS8A\nAFVQ82x9+xspMujP8hhRSJ1j\n-----END PRIVATE KEY-----\n",
-  "client_email": "urbor-serv-acc@project-urbor.iam.gserviceaccount.com",
-  "client_id": "107792380620078098137",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/urbor-serv-acc%40project-urbor.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
