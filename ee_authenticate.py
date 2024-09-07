@@ -13,8 +13,9 @@ def authenticate():
     #     print(f"Error: {str(e)}")
     #     ee.Authenticate(auth_mode='localhost')
     #     ee.Initialize(project = 'ee-workmainulislam2')
-    service_account = 'servaccforprojurborviz@project-urbor-visualization.iam.gserviceaccount.com'
-    credentials = ee.ServiceAccountCredentials(service_account, 'project-urbor-visualization-d57a1b2e6b05.json')
+    service_account = st.secrets['SERVICE_ACCOUNT']
+    key_data = st.secrets['KEY_DATA']
+    credentials = ee.ServiceAccountCredentials(email = service_account, key_data = key_data)
     ee.Initialize(credentials)
     print('-----DONE------')
     print(f'time taken ........ {t.time() - st}')
